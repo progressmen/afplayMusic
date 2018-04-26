@@ -4,4 +4,10 @@
 
 配置很简单，放进.bashrc 文件里面 `source music_shell`
 
-m ‘播放音乐’
+m '播放音乐'
+
+n '下一曲'
+
+ms '暂停'
+
+mc '继续'
